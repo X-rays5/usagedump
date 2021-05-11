@@ -1,3 +1,0 @@
-{"cpu":16,"memory":69}
-{"cpu":16,"memory":69}
-{"cpu":2,"memory":69}
