@@ -54,7 +54,7 @@ std::string stringify(rapidjson::Document& json) {
 }
 
 int main() {
-    //ToggleConsole();
+    ToggleConsole();
     auto programthread = std::async(std::launch::async, DumpUsage);
     while (programthread.wait_for(std::chrono::milliseconds(0)) != std::future_status::ready) {
         if(GetAsyncKeyState(VK_END)) {
