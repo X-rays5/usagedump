@@ -1,0 +1,3 @@
+C:/Users/X-ray/source/repos/usagedump/cmake-build-debug/CMakeFiles/usagedump.dir
+C:/Users/X-ray/source/repos/usagedump/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/X-ray/source/repos/usagedump/cmake-build-debug/CMakeFiles/rebuild_cache.dir
